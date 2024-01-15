@@ -1,6 +1,6 @@
 # Project Title
 
-<h1>e-commerceGroceryStore</h1>
+<h3>e-commerceGroceryStore</h3>
 
 ## Project Description
 This project is a small e-commerce grocery store built using React, TypeScript, Tailwind CSS, and React Icons. It is created using Vite, a fast build tool for modern web development. The E-commerce Grocery Store is a web application that allows users to browse and purchase grocery items online. It provides a user-friendly interface for searching and filtering products, adding them to a shopping cart, and completing the checkout process.
